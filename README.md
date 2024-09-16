@@ -85,9 +85,29 @@ Answer: You use the "git log" command.
 
 What is the purpose of git rebase, and how does it differ from git merge?
 
+
+Answer: git rebase is used to integrate changes from one branch into another by applying the changes from the source branch onto the base of the target branch. It essentially rewrites commit history to create a linear progression of the commits.c
+
+git rebase is use to crate a clean, linear history, especially for feature brances, While git merge is use to integrate changes while preserving history, often used for integrating long running branches. 
+
+
+
 How does Git's cherry-pick command work?
 
+
+
+Answer: Unlike git merge or git rebase, which deal with full branch histories, git cherry-pick lets you apply individual commits from one branch to another.
+The git cherry-pick command allows you to make specific commit or commits from one branch to another, this is useful when you want to integrate specific changes from one branch into another without merging the entire branch.
+
+
+
 What is the significance of Git's staging area, and how can you view it?
+
+
+
+Answer:
+
+
 
 What are Git hooks, and how can you use them?
 
