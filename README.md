@@ -45,7 +45,7 @@ Answer: It is use to add your changes to the staging area for committing.
 What is the difference between git pull and git fetch?
 
 
-Answer: Git bull fetches the latest changes from the remote repository and then immediately merge them into your current branch. It is the combination of git fetch followed by git merge.
+Answer: Git pull fetches the latest changes from the remote repository and then immediately merge them into your current branch. It is the combination of git fetch followed by git merge.
 
 While
 
@@ -56,7 +56,7 @@ Git fetch retrives the latest changes from the remote repository and updates you
 What is a branch in Git?
 
 
-Answer: A Git branch is a saparate pworkspace or timeline for making chnages, allowing developers to work independently without affecting the main codebase.
+Answer: A Git branch is a saparate workspace or timeline for making changes, allowing developers to work independently without affecting the main codebase.
 
 
 How do you create a new branch in Git?
