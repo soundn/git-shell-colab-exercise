@@ -14,7 +14,7 @@ Answer: Git is used to keep track of changes to files like source codes and mana
 
 While
 
-Guthub is a cloud based platform for hosting Git repositories, allowing developers to collaborate on projects, share their code, abd contribute to other projects. It is a service built on top of Git.
+Guthub is a cloud based platform for hosting Git repositories, allowing developers to collaborate on projects, share their code, abd contribute to other projects. It's a service built on top of Git.
 
 
 How do you initialize a Git repository?
